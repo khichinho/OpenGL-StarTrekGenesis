@@ -1,0 +1,8 @@
+This assignment is to implement Particle System to generate a sequence similar to 
+Star Trek II Genesis 'The Wrath of Khan'( https://www.youtube.com/watch?v=QXbWCrzWJo4 ).
+This will demonstrate the following aspects.
+
+Generation, rendering and animation of particle system simulating fire effects.
+Modeling of planet as a sphere and rendering using displacement and bump mapping.
+Modeling of terrain as fractal surfaces.
+Camera motion from wide angle viewing to close ups.

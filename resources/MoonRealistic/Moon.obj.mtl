@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl Mat
+Kd 0.5 0.5 0.5
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Ka Moon.jpg
+map_Kd Moon.jpg
+bump Moon_dis.jpg
+map_bump Moon_dis.jpg
+
